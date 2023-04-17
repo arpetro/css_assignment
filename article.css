@@ -1,0 +1,69 @@
+body {
+	margin: 0px;
+}
+
+.site_banner {
+	border-top-color: black;
+	border-top-width: 8px;
+	border-bottom-color: black;
+	border-bottom-width: 1px;
+	padding: 20px;
+	text-align: center;
+}
+
+.site_banner {
+	image-width: 330px;
+}
+
+h3 {
+	font: 'basier', serif;
+	font-weight: bold;
+	color: #de2f23;
+	letter-spacing: 1px;
+}
+
+.article {
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.story_header {
+	font: 'basier', serif;
+	font-size: 20px;
+}
+
+h1 {
+	size: 46px;
+	margin-bottom: 0px;
+}
+
+.story_copy {
+	font: 'pensum', serif;
+	font-size: 20px;
+}
+
+.photo {
+	width: 100%;
+}
+
+.photo_caption {
+	color: grey;
+	size: 14px;
+	margin-top: 0;
+}
+
+.footer {
+	font: 'basier', serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.footer_info {
+	color: grey;
+	size: 14px;
+}
+
+a {
+	color: black;
+}
